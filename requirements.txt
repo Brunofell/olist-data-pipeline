@@ -3,7 +3,6 @@
 # =========================
 
 pandas==2.3.0
-pyarrow==20.0.0
 
 # =========================
 # OPTIONAL DEVELOPMENT TOOLS

@@ -91,7 +91,6 @@ Consolidates Silver tables into a single `fact_orders.parquet` table joining:
 |---|---|
 | Python | Pipeline orchestration |
 | Pandas | Data transformation |
-| PyArrow | Parquet read/write support |
 | Parquet | Columnar storage format |
 | OOP | Modular, maintainable pipeline design |
 
