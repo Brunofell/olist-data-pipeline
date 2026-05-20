@@ -1,0 +1,29 @@
+# =========================
+# CORE DATA ENGINEERING LIBRARIES
+# =========================
+
+pandas==2.3.0
+pyarrow==20.0.0
+
+# =========================
+# OPTIONAL DEVELOPMENT TOOLS
+# =========================
+
+jupyter==1.1.1
+ipykernel==6.29.5
+
+# =========================
+# INSTALLATION GUIDE
+# =========================
+
+# Create virtual environment
+# python -m venv venv
+
+# Activate virtual environment (Windows)
+# venv\Scripts\activate
+
+# Activate virtual environment (Linux/Mac)
+# source venv/bin/activate
+
+# Install dependencies
+# pip install -r requirements.txt
