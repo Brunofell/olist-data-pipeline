@@ -140,7 +140,7 @@ python main.py
 
 ---
 
-## Roadmap
+<!-- ## Roadmap
 
 - [ ] Logging system
 - [ ] Unit testing suite
@@ -151,7 +151,7 @@ python main.py
 - [ ] Data quality monitoring
 - [ ] Cloud storage integration (S3 / GCS)
 
----
+--- -->
 
 ## Dataset
 
